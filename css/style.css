@@ -33,6 +33,10 @@ body{
     color: rgb(173 181 189 / 75%)!important;
 }
 
+.bi:hover{
+    color: #FFF!important;
+}
+
 .float{
     right:25px; 
     position:fixed; 
